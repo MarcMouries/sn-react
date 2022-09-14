@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /**
  * This script runs automatically right after the npm `build` script.
  */
